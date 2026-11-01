@@ -68,6 +68,13 @@ function App() {
 
           <div className="social-links">
             <a
+  href="mailto:taherkhanparchuru@gmail.com"
+  aria-label="Email"
+  title="Send me an email"
+>
+  <FaEnvelope />
+</a>
+            <a
               href="https://github.com/taherkhan879"
               target="_blank"
               rel="noreferrer"
@@ -203,6 +210,15 @@ function App() {
             and contribute to a development or testing team.
           </p>
 
+<a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=YOUR_GMAIL@gmail.com"
+  target="_blank"
+  rel="noreferrer"
+  className="primary-button"
+>
+  <FaEnvelope />
+  Email Me
+</a>
           <a
             href="https://github.com/taherkhan879"
             target="_blank"
